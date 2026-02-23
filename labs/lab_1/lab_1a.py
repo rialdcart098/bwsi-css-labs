@@ -13,6 +13,7 @@ def main():
     name = "Farhan Hossain" # TODO: Insert your name between the double quotes
 
     print(f"{name}, Welcome to the CSS course!")
+    print("This is the first lab in the course, and it is designed to get you familiar with Git and GitHub.")
 
 if __name__ == "__main__":
     main()
